@@ -12,6 +12,4 @@
 
 ## Hecho por:
 
-###Homero Gonzalez
-
-### Linkedin: [https://www.linkedin.com//](https://www.linkedin.com/in/fernandohomero/)
+### Homero Gonzalez
